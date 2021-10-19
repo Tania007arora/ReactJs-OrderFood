@@ -1,0 +1,17 @@
+.nav{
+    
+    margin-top: 170px;
+    
+    
+}
+.navItem{
+    background-color: white;
+    border-radius: 10px     10px      0           10px;
+}
+.nav-link{
+    color:#49d893;
+    font-family: 'Bebas Neue', cursive;
+}
+.apps-outline{
+    color:#49d893;
+}

@@ -1,0 +1,51 @@
+.foodBox {
+  width: 220px;
+  height: 220px;
+  background-color: #F0DDF0;
+  border-radius: 13px;
+  /* display:inline; */
+}
+.checked {
+  color: #eff302;
+}
+.rating {
+  font-size: 9px;
+}
+.container1 {
+    display:flex;
+  justify-content: space-between;
+}
+.heartTag {
+  border-radius: 50%;
+  background-color: white;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+}
+.circleTag{
+    padding-top:5px;color:white;text-shadow: 0 0 3px #000;
+}
+.heartSelect{
+    color:#e95454;
+}
+.image{
+    width:120px ;
+    height:120px;
+    filter:drop-shadow(-5px 10px 10px grey);
+
+}
+.foodName{
+    font-family: 'Quicksand', sans-serif;
+}
+.portion{
+    color:red;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 10px;
+}
+.price{
+    font-family: 'Bebas Neue', cursive;
+}
+#heart:hover{
+    /* color: grey; */
+    cursor: pointer;
+}

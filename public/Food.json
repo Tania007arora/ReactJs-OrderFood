@@ -1,0 +1,95 @@
+{
+    "noOfItems":10,
+    "foodItems":[
+        {
+            "foodIndex":100,
+            "foodItemName":"Tomato Curry",
+            "portionSize":200,
+            "rating":4,
+            "rate":4.99,
+            "imagePath":"/foodImages/banana salad.png",
+            "inCart":false
+        },
+        {
+            "foodIndex":101,
+            "foodItemName":"Fruit Nut",
+            "portionSize":250,
+            "rating":4,
+            "rate":7.00,
+            "imagePath":"/foodImages/fruitnut.png",
+            "inCart":false
+        },
+        {
+            "foodIndex":102,
+            "foodItemName":"Fried Rice",
+            "portionSize":150,
+            "rating":4,
+            "rate":3.50,
+            "imagePath":"/foodImages/ramen.png",
+            "inCart":false
+        },
+        {
+            "foodIndex":103,
+            "foodItemName":"Cereal Spl",
+            "portionSize":350,
+            "rating":3,
+            "rate":3.50,
+            "imagePath":"/foodImages/cereal.png",
+            "inCart":false
+        },
+        {
+            "foodIndex":104,
+            "foodItemName":"Special Salad",
+            "portionSize":370,
+            "rating":5,
+            "rate":1.00,
+            "imagePath":"/foodImages/banana salad.png",
+            "inCart":false
+        },
+        {
+            "foodIndex":105,
+            "foodItemName":"Fruit Salad",
+            "portionSize":270,
+            "rating":3.5,
+            "rate":10.00,
+            "imagePath":"/foodImages/fruit salad.png",
+            "inCart":false
+        },
+        {
+            "foodIndex":106,
+            "foodItemName":"Muesli Milk",
+            "portionSize":200,
+            "rating":4,
+            "rate":6.50,
+            "imagePath":"/foodImages/muesli.png",
+            "inCart":false
+        },
+        {
+            "foodIndex":107,
+            "foodItemName":"Chicken stew",
+            "portionSize":500,
+            "rating":5,
+            "rate":15.00,
+            "imagePath":"/foodImages/ramen.png",
+            "inCart":false
+        },
+        {
+            "foodIndex":108,
+            "foodItemName":"Salad",
+            "portionSize":250,
+            "rating":3,
+            "rate":1.50,
+            "imagePath":"/foodImages/banana salad.png",
+            "inCart":false
+        },
+        {
+            "foodIndex":109,
+            "foodItemName":"Fruit Salad",
+            "portionSize":750,
+            "rating":4,
+            "rate":20.00,
+            "imagePath":"/foodImages/banana salad.png",
+            "inCart":false
+        }
+    ]
+}

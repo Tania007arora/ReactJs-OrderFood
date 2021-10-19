@@ -1,0 +1,17 @@
+.HeadingOrder{
+    font-family: 'Bebas Neue', cursive;
+
+}
+.ordersList{
+    display:block;
+    height:400px;
+    overflow: auto;
+    overflow-x: hidden;
+}
+.container1 {
+    display:flex;
+  justify-content: space-between;
+}
+.total{
+    font-family: 'Bebas Neue', cursive;
+}
